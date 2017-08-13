@@ -34,4 +34,8 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(getApplicationContext(), "The Necessary Grade is: " + necessaryGrade, Toast.LENGTH_LONG).show();
     }
+
+    //ToDo: Add an the Lowell Area Schools "L" as an image in the lower half of the screen as a square
+    //ToDo: Add a logo for the app which is the same image
+
 }
